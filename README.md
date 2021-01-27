@@ -11,7 +11,7 @@ In the main directory. After the modules have been installed you can run the pro
 
 	Rock-Paper-Scissors.py
   
-Or you can use jupyter notebook to run various cells in the file
+Alternatively you can use jupyter notebook to run various cells in the file
 
 	Rock-Paper-Scissors.ipynb
 ## Important
