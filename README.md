@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-GUI
 An interactive single player graphical version of the famous Stone,Paper and Scissors game alternatively known as Rock,Paper and Scissors.
 ## Installation
-For those who don't know much about running python code, or just isn't bothered about nits and grits of the program can directly download and extract the zip file (Stone-Paper-Scissors.zip) and can run the 'Stone-Paper-Scissors.exe' file from the same folder. It should run just perfectly fine as it as(hopefully).
+For those who don't know much about running python code, or just isn't bothered about nits and grits of the program can directly download and extract the zip file (Stone-Paper-Scissors.zip) and can run the 'Stone-Paper-Scissors.exe' file from the same folder. It should run just perfectly fine as it is(hopefully).
 
 If you are still reading till this point ,clone the project.
 To install all the required libraries for the project run
